@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+## Jirube - Proyecto Edificios Guayaquil 
 
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
